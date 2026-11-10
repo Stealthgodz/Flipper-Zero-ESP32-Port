@@ -43,6 +43,7 @@ APPS = [
     "clock",
     "bad_usb",
     "subghz",
+    "esubghz_chat",
     "cli_subghz",
     "subghz_load_dangerous_settings",
     "passport",
